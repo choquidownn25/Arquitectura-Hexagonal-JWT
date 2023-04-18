@@ -1,7 +1,8 @@
 # templete-hexagonal
 
-![userrolemembership1](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/List.jpg)
-![userrolemembership2](https://github.com/choquidownn25/templete-hexagonal/blob/main/img/Post.jpg)
+![userrolemembership1](https://github.com/choquidownn25/Arquitectura-Hexagonal-JWT/blob/main/img/Hibernate.jpg)
+![userrolemembership2](https://github.com/choquidownn25/Arquitectura-Hexagonal-JWT/blob/main/img/Registro.jpg)
+![userrolemembership3](https://github.com/choquidownn25/Arquitectura-Hexagonal-JWT/blob/main/img/Tokken.jpg)
 # Features
 
 - spring initializr https://start.spring.io/
