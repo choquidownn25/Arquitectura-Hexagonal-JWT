@@ -1,4 +1,6 @@
 # templete-hexagonal
+Referencia del codigo
+https://github.com/bezkoder/angular-11-spring-boot-jwt-authentication
 
 ![userrolemembership1](https://github.com/choquidownn25/Arquitectura-Hexagonal-JWT/blob/main/img/Hibernate.jpg)
 ![userrolemembership2](https://github.com/choquidownn25/Arquitectura-Hexagonal-JWT/blob/main/img/Registro.jpg)
